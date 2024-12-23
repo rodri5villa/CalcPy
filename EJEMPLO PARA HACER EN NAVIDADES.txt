@@ -1,0 +1,8 @@
+De ejemplo igual hago una librería calculadora que haga sumar, restar, 
+multiplicar, dividir, raíz cuadrada, potencias, sen y cos.
+
+
+Lo divido en dos módulos por ejemplo e intento importarlo en un proyecto a parte, 
+para utilizar la librería y hago una calculadora.
+
+Lo subo en github.
