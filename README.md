@@ -25,5 +25,9 @@ pip install -e .
 ## Entorno Anaconda
 
 ```bash
+ conda create -n calcpy-env python=3.10.4
+```
+
+```bash
 conda activate CalcPy-env
 ```
