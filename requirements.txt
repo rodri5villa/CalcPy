@@ -1,0 +1,33 @@
+asttokens==2.4.1
+-e git+https://github.com/rodri5villa/CalcPy-Library.git@7481ff00540bb1c11d2dbe02f679963d0e9483d3#egg=CalcPy
+colorama==0.4.6
+comm==0.2.2
+debugpy==1.8.6
+decorator==5.1.1
+exceptiongroup==1.2.2
+executing==2.1.0
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+ipykernel==6.29.5
+ipython==8.27.0
+jedi==0.19.1
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+matplotlib-inline==0.1.7
+nest-asyncio==1.6.0
+packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
+parso==0.8.4
+platformdirs==4.3.6
+pluggy @ file:///C:/b/abs_dfec_m79vo/croot/pluggy_1733170145382/work
+prompt_toolkit==3.0.48
+psutil==6.0.0
+pure_eval==0.2.3
+Pygments==2.18.0
+pytest @ file:///C:/b/abs_een_3z747j/croot/pytest_1717793253670/work
+pywin32==306
+pyzmq==26.2.0
+stack-data==0.6.3
+tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
+tornado==6.4.1
+traitlets==5.14.3
+typing_extensions==4.12.2
+wcwidth==0.2.13
