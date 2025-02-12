@@ -1,19 +1,33 @@
 asttokens==2.4.1
--e git+https://github.com/rodri5villa/CalcPy-Library.git@7481ff00540bb1c11d2dbe02f679963d0e9483d3#egg=CalcPy
+backports.tarfile==1.2.0
+certifi==2025.1.31
+charset-normalizer==3.4.1
 colorama==0.4.6
 comm==0.2.2
 debugpy==1.8.6
 decorator==5.1.1
+docutils==0.21.2
 exceptiongroup==1.2.2
 executing==2.1.0
+id==1.5.0
+idna==3.10
+importlib_metadata==8.6.1
 iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
 ipykernel==6.29.5
 ipython==8.27.0
+jaraco.classes==3.4.0
+jaraco.context==6.0.1
+jaraco.functools==4.1.0
 jedi==0.19.1
 jupyter_client==8.6.3
 jupyter_core==5.7.2
+keyring==25.6.0
+markdown-it-py==3.0.0
 matplotlib-inline==0.1.7
+mdurl==0.1.2
+more-itertools==10.6.0
 nest-asyncio==1.6.0
+nh3==0.2.20
 packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
 parso==0.8.4
 platformdirs==4.3.6
@@ -24,10 +38,19 @@ pure_eval==0.2.3
 Pygments==2.18.0
 pytest @ file:///C:/b/abs_een_3z747j/croot/pytest_1717793253670/work
 pywin32==306
+pywin32-ctypes==0.2.3
 pyzmq==26.2.0
+readme_renderer==44.0
+requests==2.32.3
+requests-toolbelt==1.0.0
+rfc3986==2.0.0
+rich==13.9.4
 stack-data==0.6.3
 tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
 tornado==6.4.1
 traitlets==5.14.3
+twine==6.1.0
 typing_extensions==4.12.2
+urllib3==2.3.0
 wcwidth==0.2.13
+zipp==3.21.0
